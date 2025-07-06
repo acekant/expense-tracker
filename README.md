@@ -1,0 +1,2 @@
+# Expense Tracker in MERN
+This is just normal expense tracker in which anyone can make list of their expense according to the months. I built this project for **Completion my MERN stack.** So, this is nothing but the examination for me to test my MERN knowledge. You can find more Information about this Project below.
