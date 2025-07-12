@@ -1,4 +1,4 @@
-node-modules/
+node_+modules/
 .git/
 logs/
 dist/
