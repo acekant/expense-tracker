@@ -1,0 +1,9 @@
+node-modules/
+.git/
+logs/
+dist/
+build/
+
+*.env.*
+.logs
+package-lock.json

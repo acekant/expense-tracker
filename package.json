@@ -1,0 +1,23 @@
+{
+  "name": "expense_tracker",
+  "version": "1.0.0",
+  "description": "This is just normal expense tracker in which anyone can make list of their expense according to the months. I built this project for **Completion my MERN stack.** So, this is nothing but the examination for me to test my MERN knowledge. You can find more Information about this Project below.",
+  "homepage": "https://github.com/acekant/expense-tracker#readme",
+  "bugs": {
+    "url": "https://github.com/acekant/expense-tracker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acekant/expense-tracker.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "prettier": "^3.6.2"
+  }
+}
